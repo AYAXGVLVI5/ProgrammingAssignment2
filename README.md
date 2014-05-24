@@ -1,3 +1,12 @@
+### Solution to the coursera assignment 2 - lexical scope
+
+cachematrix.r contains how to make functions within functions in r and cache the data so it doesn't have to be calculated every time. 
+
+In particular, it uses 2 functions. First function, makeCacheMatrix, can be used to create a special matrix that can be filled with method set, and whose values can be got with method get. Second function, cacheSolve, is used to store calculate the inverse of the matrix, and show that it is cacheable. 
+
+The instructions for the assignment below. 
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
